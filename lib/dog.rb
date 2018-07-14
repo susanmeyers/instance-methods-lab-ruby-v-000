@@ -1,6 +1,8 @@
 class Dog
   def bark
-    puts "Woof!""
+    puts "Woof!"
+
+    fido = Dog.new
   end
 end
 
